@@ -1,0 +1,36 @@
+#index {
+	background-image: url(../images/fondo_1.png);
+}	
+
+#secciones {
+	background-image: url(../images/fondo_2.png);
+}
+
+h1 {
+	font-family: 'Cinzel', serif;
+	font-size: 30px;
+	color: red;
+}
+
+h2 {
+	font-family: 'Bree Serif', serif;
+}
+
+span {
+	font-weight: bold;
+	color:#D37C32;
+}
+
+img table.discografia {
+	width: 250px;
+	height: 250px;
+}
+
+.discografia, .novelas, .films {
+	border-style: solid;
+
+}
+
+label, textarea {
+	display: block;
+}
