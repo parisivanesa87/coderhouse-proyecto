@@ -21,9 +21,11 @@ span {
 	color:#D37C32;
 }
 
-img table.discografia {
+img table td.discografia {
 	width: 250px;
 	height: 250px;
+	border: 10px;
+	border-style: dotted; 
 }
 
 .discografia, .novelas, .films {
