@@ -36,9 +36,9 @@ footer li {
 	padding:0.5em; 
 }
 
-img table td.discografia {
-	width: 50%;
-	height: 50%;
+img table td .discografia {
+	width: 150px;
+	height: 150px;
 }
 
 a {
@@ -47,10 +47,6 @@ a {
 
 a:hover {
 	color:#FF9800;
-}
-
-a:visited {
-	color:#FF5722;
 }
 
 .discografia, .novelas, .films {
