@@ -28,6 +28,14 @@ img table td.discografia {
 	border-style: dotted; 
 }
 
+a {
+	color:#D37046;
+}
+
+a:hover {
+	color:#ED9F61;
+}xwº
+
 .discografia, .novelas, .films {
 	border-style: solid;
 
